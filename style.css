@@ -1,0 +1,157 @@
+
+a{
+  color: #11999E;
+  font: 'Montserrat';
+  margin: 20px 10px;
+  text-decoration: none;
+
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+
+h1 {
+  font-size: 5.625rem;
+  color:#66BFBF;
+  margin:0;
+  font-family: 'Sacramento', cursive;
+  padding-top: 150px;
+
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Spartan', sans-serif;
+  font-size: 3.5rem;
+  font-weight: normal;
+  }
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+
+}
+
+hr {
+  border: dotted #EAf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  /*margin: 30px auto;*/
+}
+
+p {
+  line-height: 2;
+}
+
+a:hover{
+  color: #EAf6f6;
+}
+
+.footer-copyright{
+  color: #11999E;
+  font-size: 0.75rem;
+  padding: 20px 0;
+
+}
+
+.contact-message {
+width: 40%;
+margin: 40px auto 60px;
+}
+
+.enchantress {
+  width: 30%;
+  margin:auto;
+}
+
+.handshake {
+  /*height: 250px;
+  width: 250px;*/
+  width:30%;
+  float: right;
+  margin-left: 20px;
+}
+
+.hello {
+  font-size: 5.5rem;
+}
+
+.middle-container {
+margin: 50px 0;
+
+}
+
+.peace{
+  /*height: 230px;
+  width: 230px;*/
+  width:15%;
+}
+
+
+.programmer {
+  font-size: 1.5rem;
+}
+
+
+.top-container {
+  background-color:#ecfbfc;
+  margin-top: 0;
+
+}
+
+.tree {
+  /*height: 250px;
+  width: 250px;*/
+  width: 35%;
+  float: left;
+  margin-right: 20px;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.btn {
+  box-shadow: -1px 11px 19px -8px #276873;
+  background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+  background-color:#30e3cb;
+  border-radius:8px;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:'Montserrat';
+  font-size:20px;
+  font-weight:bold;
+  padding:8px 10px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #3d768a;
+  margin-bottom: 90px;
+
+}
+
+.btn:hover {
+  background:linear-gradient(to bottom, #2bc4ad 5%, #30e3cb 100%);
+  background-color:#2bc4ad;
+}
+
+.btn:active {
+  position:relative;
+  top:1px;
+}
+
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+
+}
